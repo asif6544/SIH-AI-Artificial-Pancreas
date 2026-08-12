@@ -288,6 +288,6 @@ The AIML, backend, and frontend components are being developed and integrated pr
 
 ---
 
-## 📄 License
+## 📄 TEAM 
 
 This project is developed for educational, research, and hackathon purposes.
